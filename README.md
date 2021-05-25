@@ -14,7 +14,7 @@ urlcolor: blue
 
 # Security and Personal Privacy Online
 
-This course is aimed at providing awareness of personal privacy among the broader public and young students. Therefore it provides knowledge about topics like cyber espionage, cyberbullying, corporate tracking etc. and also provides knowledge about techniques regarding how to protect your digital data, how to serf online without leaving any traces and remain anonymous on the Internet and so on.  In addition, the course will cover topics such as mobile security, vigilance against digital scam, the use of password safes, VPNs and encryption to protect privacy. Therefore, mainly the contents relate to protecting personal privacy online and basic cyber hygiene.
+This course is aimed at providing awareness of personal privacy among the broader public and young students. Therefore it provides knowledge about topics like cyber espionage, cyberbullying, corporate tracking etc. and also provides knowledge about techniques regarding how to protect your digital data, how to surf online without leaving any traces and remain anonymous on the Internet and so on.  In addition, the course will cover topics such as  vigilance against digital scam, the use of password safes, VPNs and encryption to protect privacy. Therefore, mainly the contents relate to protecting personal privacy online and basic cyber hygiene.
 
 This course contains six modules, as listed below, and each module will integrate classic lectures with hands-on activities to provide some pragmatic experience about these concepts as well.
 
@@ -39,8 +39,8 @@ Each module contains more or less the following standard structure.
 * Slides for students (e.g. M1_01_TrollAttackS.pdf)
 * Slides for teachers with notes (M1_01_TrollAttackN.pdf)
 * Case study/note for students (e.g. M1_TrollAttackStudentMaterial.pdf)
-* Case study/note for teachers (M1_TrollAttackTeacherMaterial.pdf)
-* A recommended reading list (M1_ReadingList.pdf)
+* Case study/note for teachers (e.g. M1_TrollAttackTeacherMaterial.pdf)
+* A recommended reading list (e.g. M1_ReadingList.pdf)
 
 
 
