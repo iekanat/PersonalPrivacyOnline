@@ -59,7 +59,7 @@ The module contains the following files.
 + [M1_01_TrollAttackN.pdf](Module01_BullyingStalkingDoxing/M1_01_TrollAttackN.pdf): The lecture slides including teaching notes
 + [M1_01_TrollAttackS.pdf](Module01_BullyingStalkingDoxing/M1_01_TrollAttackS.pdf): The lecture slides without notes for the students
 + [M1_ReadingList.pdf](Module01_BullyingStalkingDoxing/M1_ReadingList.pdf): A list of suggested readings for the teacher and students
-+ [M1_TrollAttackStudentMaterial.pdf](Module01_BullyingStalkingDoxing/M1_TrollAttackStudentMaterial.pdf: The student version of this module's case study assignment
++ [M1_TrollAttackStudentMaterial.pdf](Module01_BullyingStalkingDoxing/M1_TrollAttackStudentMaterial.pdf): The student version of this module's case study assignment
 + [M1_TrollAttackTeacherMaterial.pdf](Module01_BullyingStalkingDoxing/M1_TrollAttackTeacherMaterial.pdf): The teacher's version of this module's case study assignment
 
 ___
