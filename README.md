@@ -18,7 +18,7 @@ This course is aimed at providing awareness of personal privacy among the broade
 
 This course contains six modules, as listed below, and each module will integrate classic lectures with hands-on activities to provide some pragmatic experience about these concepts as well.
 
-* Module 01. Cyberbullying: Bullying, Stalking and Doxing 
+* [Module 01. Cyberbullying: Bullying, Stalking and Doxing](Module01_BullyingStalkingDoxing)
 
 * Module 02. Corporate Tracking: Product is You 
 
