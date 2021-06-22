@@ -35,12 +35,12 @@ This course contains six modules, as listed below, and each module will integrat
 Each module contains more or less the following standard structure.
 
 * Lesson plan (e.g. [M1_00_LessonPlan.pdf](Module01_BullyingStalkingDoxing/M1_00_LessonPlan.pdf) )
-* A pre-recorded video lecture (e.g. M1_01_TrollAttack.mp4)
-* Slides for students (e.g. M1_01_TrollAttackS.pdf)
-* Slides for teachers with notes (M1_01_TrollAttackN.pdf)
-* Case study/note for students (e.g. M1_TrollAttackStudentMaterial.pdf)
-* Case study/note for teachers (e.g. M1_TrollAttackTeacherMaterial.pdf)
-* A recommended reading list (e.g. M1_ReadingList.pdf)
+* A pre-recorded video lecture (e.g. [M1_01_TrollAttack.mp4](Module01_BullyingStalkingDoxing/M1_01_TrollAttack.mp4))
+* Slides for students (e.g. [M1_01_TrollAttackS.pdf](Module01_BullyingStalkingDoxing/M1_01_TrollAttackS.pdf))
+* Slides for teachers with notes ([M1_01_TrollAttackN.pdf](Module01_BullyingStalkingDoxing/M1_01_TrollAttackN.pdf))
+* Case study/note for students (e.g. [M1_TrollAttackStudentMaterial.pdf](Module01_BullyingStalkingDoxing/M1_TrollAttackStudentMaterial.pdf))
+* Case study/note for teachers (e.g. [M1_TrollAttackTeacherMaterial.pdf](Module01_BullyingStalkingDoxing/M1_TrollAttackTeacherMaterial.pdf))
+* A recommended reading list (e.g. [M1_ReadingList.pdf](Module01_BullyingStalkingDoxing/M1_ReadingList.pdf))
 
 
 
@@ -54,13 +54,13 @@ This module focuses on individuals tracking other individuals online. This modul
 
 The module contains the following files.
 
-+ M1_00_LessonPlan.pdf: Instructions on how to teach this module
-+ M1_01_TrollAttack.mp4: The pre-recorded video lecture
-+ M1_01_TrollAttackN.pdf: The lecture slides including teaching notes
-+ M1_01_TrollAttackS.pdf: The lecture slides without notes for the students
-+ M1_ReadingList.pdf: A list of suggested readings for the teacher and students
-+ M1_TrollAttackStudentMaterial.pdf: The student version of this module's case study assignment
-+ M1_TrollAttackTeacherMaterial.pdf: The teacher's version of this module's case study assignment
++ [M1_00_LessonPlan.pdf](Module01_BullyingStalkingDoxing/M1_00_LessonPlan.pdf): Instructions on how to teach this module
++ [M1_01_TrollAttack.mp4](Module01_BullyingStalkingDoxing/M1_01_TrollAttack.mp4): The pre-recorded video lecture
++ [M1_01_TrollAttackN.pdf](Module01_BullyingStalkingDoxing/M1_01_TrollAttackN.pdf): The lecture slides including teaching notes
++ [M1_01_TrollAttackS.pdf](Module01_BullyingStalkingDoxing/M1_01_TrollAttackS.pdf): The lecture slides without notes for the students
++ [M1_ReadingList.pdf](Module01_BullyingStalkingDoxing/M1_ReadingList.pdf): A list of suggested readings for the teacher and students
++ [M1_TrollAttackStudentMaterial.pdf](Module01_BullyingStalkingDoxing/M1_TrollAttackStudentMaterial.pdf: The student version of this module's case study assignment
++ [M1_TrollAttackTeacherMaterial.pdf](Module01_BullyingStalkingDoxing/M1_TrollAttackTeacherMaterial.pdf): The teacher's version of this module's case study assignment
 
 ___
 
@@ -73,19 +73,19 @@ This module looks into corporate tracking online and gives the students tools an
 
 The module contains the following files.
 
-+ M2_00_LessonPlan.pdf: Instructions on how to teach this module
-+ M2_01_ProductIsYou.mp4: The recorded video lecture
-+ M2_01_ProductIsYouN.pdf: The lecture slides, including teaching notes
-+ M2_01_ProductIsYouS.pdf: The lecture slides
-+ M2_02_LightBeam.mp4: Recorded instructions for an exercise on the LightBeam browser extension 
-+ M2_02_Lightbeam.pdf: Written instructions for an exercise on the LightBeam browser extension 
-+ M2_03_CoverYourTracks.mp4: Recorded instructions for an exercise on testing what is collected about your browser by first-party trackers
-+ M2_03_CoverYourTracks.pdf: Written instructions for an exercise on testing what is collected about your browser by first-party trackers
-+ M2_04_GoogleAds.mp4: Recorded instructions for an exercise on checking Google Ad settings
-+ M2_04_GoogleAds.pdf: Written instructions for an exercise on checking Google Ad settings
-+ M2_05_PrivacyAndSecurity.mp4: Recorded instructions for an exercise on browser privacy settings
-+ M2_05_PrivacyAndSecurity.pdf: Written instructions for an exercise on browser privacy settings
-+ M2_ReadingList.pdf: A list of suggested readings for the teacher and students
++ [M2_00_LessonPlan.pdf](Module02_ProductIsYou/M2_00_LessonPlan.pdf): Instructions on how to teach this module
++ [M2_01_ProductIsYou.mp4](Module02_ProductIsYou/M2_01_ProductIsYou.mp4): The recorded video lecture
++ [M2_01_ProductIsYouN.pdf](Module02_ProductIsYou/M2_01_ProductIsYouN.pdf): The lecture slides, including teaching notes
++ [M2_01_ProductIsYouS.pdf](Module02_ProductIsYou/M2_01_ProductIsYouS.pdf): The lecture slides
++ [M2_02_LightBeam.mp4](Module02_ProductIsYou/M2_02_LightBeam.mp4): Recorded instructions for an exercise on the LightBeam browser extension 
++ [M2_02_Lightbeam.pdf](Module02_ProductIsYou/M2_02_Lightbeam.pdf): Written instructions for an exercise on the LightBeam browser extension 
++ [M2_03_CoverYourTracks.mp4](Module02_ProductIsYou/M2_03_CoverYourTracks.mp4): Recorded instructions for an exercise on testing what is collected about your browser by first-party trackers
++ [M2_03_CoverYourTracks.pdf](Module02_ProductIsYou/M2_03_CoverYourTracks.pdf): Written instructions for an exercise on testing what is collected about your browser by first-party trackers
++ [M2_04_GoogleAds.mp4](Module02_ProductIsYou/M2_04_GoogleAds.mp4): Recorded instructions for an exercise on checking Google Ad settings
++ [M2_04_GoogleAds.pdf](Module02_ProductIsYou/M2_04_GoogleAds.pdf): Written instructions for an exercise on checking Google Ad settings
++ [M2_05_PrivacyAndSecurity.mp4](Module02_ProductIsYou/M2_05_PrivacyAndSecurity.mp4): Recorded instructions for an exercise on browser privacy settings
++ [M2_05_PrivacyAndSecurity.pdf](Module02_ProductIsYou/M2_05_PrivacyAndSecurity.pdf): Written instructions for an exercise on browser privacy settings
++ [M2_ReadingList.pdf](Module02_ProductIsYou/M2_ReadingList.pdf): A list of suggested readings for the teacher and students
 
 ___
 
@@ -98,12 +98,12 @@ This module discusses government surveillance online and teaches the students ab
 
 The module contains the following files.
 
-+ M3_00_LessonPlan.pdf: Instructions on how to teach this module
-+ M3_01_TheCaseForPrivacy.mp4: The recorded video lecture
-+ M3_01_CaseForPrivacyN.pdf: The lecture slides including teaching notes
-+ M3_01_CaseForPrivacyS.pdf: The lecture slides
-+ M3_CaseforPrivacy_StudentMaterial.pdf: The student version of this module's case study assignment
-+ M3_CaseforPrivacy_TeacherMaterial.pdf: The teacher's version of this module's case study assignment
++ [M3_00_LessonPlan.pdf](Module03_CaseForPrivacy/M3_00_LessonPlan.pdf): Instructions on how to teach this module
++ [M3_01_TheCaseForPrivacy.mp4](Module03_CaseForPrivacy/M3_01_TheCaseForPrivacy.mp4): The recorded video lecture
++ [M3_01_CaseForPrivacyN.pdf](Module03_CaseForPrivacy/M3_01_CaseForPrivacyN.pdf): The lecture slides including teaching notes
++ [M3_01_CaseForPrivacyS.pdf](Module03_CaseForPrivacy/M3_01_CaseForPrivacyS.pdf): The lecture slides
++ [M3_CaseforPrivacy_StudentMaterial.pdf](Module03_CaseForPrivacy/M3_CaseforPrivacy_StudentMaterial.pdf): The student version of this module's case study assignment
++ [M3_CaseforPrivacy_TeacherMaterial.pdf](Module03_CaseForPrivacy/M3_CaseforPrivacy_TeacherMaterial.pdf): The teacher's version of this module's case study assignment
 
 ___
 
@@ -116,18 +116,18 @@ This module teaches about what kind of traces people leave when using the intern
 
 The module contains the following files.
 
-+ M4_00_LessonPlan.pdf: Instructions on how to teach this module
-+ M4_01_leavingTraces.mp4: The recorded video lecture
-+ M4_01_LeavingTracesN.pdf: The lecture slides including teaching notes
-+ M4_01_LeavingTracesS.pdf: The lecture slides
-+ M4_02_VPN.mp4: Recorded lesson and instructions for an exercise on VPNs
-+ M4_02_VPN.pdf: Written instructions for an exercise on VPNs
-+ M4_02_VPNN.pdf: Slides with teaching notes for the lesson and instructions for an exercise on VPNs
-+ M4_02_VPNS.pdf: Slides for the lesson and instructions for an exercise on VPNs
-+ M4_03_DNSCrypt.mp4: Recorded lesson and instructions for an exercise on securing Domain Name Systems
-+ M4_03_DNSCrypt.pdf: Written instructions for an exercise on securing Domain Name Systems
-+ M4_03_DNSCryptN.pdf: Slides with teaching notes for the lesson and instructions for Securing Domain Name Systems
-+ M4_03_DNSCryptS.pdf: Slides for the lesson and instructions for Securing Domain Name Systems
++ [M4_00_LessonPlan.pdf](Module04_ThreatModelsInModernWorld/M4_00_LessonPlan.pdf): Instructions on how to teach this module
++ [M4_01_leavingTraces.mp4](Module04_ThreatModelsInModernWorld/M4_01_leavingTraces.mp4): The recorded video lecture
++ [M4_01_LeavingTracesN.pdf](Module04_ThreatModelsInModernWorld/M4_01_LeavingTracesN.pdf): The lecture slides including teaching notes
++ [M4_01_LeavingTracesS.pdf](Module04_ThreatModelsInModernWorld/M4_01_LeavingTracesS.pdf): The lecture slides
++ [M4_02_VPN.mp4](Module04_ThreatModelsInModernWorld/M4_02_VPN.mp4): Recorded lesson and instructions for an exercise on VPNs
++ [M4_02_VPN.pdf](Module04_ThreatModelsInModernWorld/M4_02_VPN.pdf): Written instructions for an exercise on VPNs
++ [M4_02_VPNN.pdf](Module04_ThreatModelsInModernWorld/M4_02_VPNN.pdf): Slides with teaching notes for the lesson and instructions for an exercise on VPNs
++ [M4_02_VPNS.pdf](Module04_ThreatModelsInModernWorld/M4_02_VPNS.pdf): Slides for the lesson and instructions for an exercise on VPNs
++ [M4_03_DNSCrypt.mp4](Module04_ThreatModelsInModernWorld/M4_03_DNSCrypt.mp4): Recorded lesson and instructions for an exercise on securing Domain Name Systems
++ [M4_03_DNSCrypt.pdf](Module04_ThreatModelsInModernWorld/M4_03_DNSCrypt.pdf): Written instructions for an exercise on securing Domain Name Systems
++ [M4_03_DNSCryptN.pdf](Module04_ThreatModelsInModernWorld/M4_03_DNSCryptN.pdf): Slides with teaching notes for the lesson and instructions for Securing Domain Name Systems
++ [M4_03_DNSCryptS.pdf](Module04_ThreatModelsInModernWorld/M4_03_DNSCryptS.pdf): Slides for the lesson and instructions for Securing Domain Name Systems
 
 ___
 
@@ -140,22 +140,22 @@ This module focuses on common threats an average citizen faces online daily and 
 
 The module contains the following files.
 
-+ M5_00_LessonPlan.pdf: Instructions on how to teach this module
-+ M5_01_CommonThreatsAndSolutions.mp4: The recorded video lecture
-+ M5_01_CommonThreatsN.pdf: The lecture slides including teaching notes
-+ M5_01_CommonThreatsS.pdf: The lecture slides
-+ M5_02_PasswordManagers.mp4: Recorded lesson and instructions for an exercise on Password Managers
-+ M5_02_PasswordManager.pdf: Written instructions for an exercise on Password Managers
-+ M5_02_PasswordManagersN.pdf: Slides with teaching notes for the lesson and instructions for an exercise on Password Managers
-+ M5_02_PasswordManagersS.pdf: Slides for the lesson and instructions for an exercise on Password Managers
-+ M5_03_MultifactorAuthentication.mp4: Recorded lesson and instructions for an exercise on Multifactor Authentication
-+ M5_03_MultifactorAuthenticationN.pdf: Slides with teaching notes for the lesson and instructions for an exercise on Multifactor authentication
-+ M5_03_MultifactorAuthenticationS.pdf: Slides for the lesson and instructions for an exercise on Multifactor authentication
-+ M5_03_MultiFactorAuthenticators.pdf: Written instructions for an exercise on Multifactor authentication
-+ M5_04_WindowsSecuritySettings.mp4: Recorded lesson and instructions for an exercise on Windows security settings
-+ M5_04_WindowsSecuritySettings.pdf: Written instructions for an exercise on Windows security settings
-+ M5_04_WindowsSecuritySettingsN.pdf: Slides with teaching notes for the lesson and instructions for an exercise on Windows security settings
-+ M5_04_WindowsSecuritySettingsS.pdf: Slides for the lesson and instructions for an exercise on Windows security settings
++ [M5_00_LessonPlan.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_00_LessonPlan.pdf): Instructions on how to teach this module
++ [M5_01_CommonThreatsAndSolutions.mp4](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_01_CommonThreatsAndSolutions.mp4): The recorded video lecture
++ [M5_01_CommonThreatsN.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_01_CommonThreatsN.pdf): The lecture slides including teaching notes
++ [M5_01_CommonThreatsS.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_01_CommonThreatsS.pdf): The lecture slides
++ [M5_02_PasswordManagers.mp4](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_02_PasswordManagers.mp4): Recorded lesson and instructions for an exercise on Password Managers
++ [M5_02_PasswordManager.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_02_PasswordManager.pdf): Written instructions for an exercise on Password Managers
++ [M5_02_PasswordManagersN.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_02_PasswordManagersN.pdf): Slides with teaching notes for the lesson and instructions for an exercise on Password Managers
++ [M5_02_PasswordManagersS.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_02_PasswordManagersS.pdf): Slides for the lesson and instructions for an exercise on Password Managers
++ [M5_03_MultifactorAuthentication.mp4](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_03_MultifactorAuthentication.mp4): Recorded lesson and instructions for an exercise on Multifactor Authentication
++ [M5_03_MultifactorAuthenticationN.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_03_MultifactorAuthenticationN.pdf): Slides with teaching notes for the lesson and instructions for an exercise on Multifactor authentication
++ [M5_03_MultifactorAuthenticationS.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_03_MultifactorAuthenticationS.pdf): Slides for the lesson and instructions for an exercise on Multifactor authentication
++ [M5_03_MultiFactorAuthenticators.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_03_MultiFactorAuthenticators.pdf): Written instructions for an exercise on Multifactor authentication
++ [M5_04_WindowsSecuritySettings.mp4](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_04_WindowsSecuritySettings.mp4): Recorded lesson and instructions for an exercise on Windows security settings
++ [M5_04_WindowsSecuritySettings.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_04_WindowsSecuritySettings.pdf): Written instructions for an exercise on Windows security settings
++ [M5_04_WindowsSecuritySettingsN.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_04_WindowsSecuritySettingsN.pdf): Slides with teaching notes for the lesson and instructions for an exercise on Windows security settings
++ [M5_04_WindowsSecuritySettingsS.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_04_WindowsSecuritySettingsS.pdf): Slides for the lesson and instructions for an exercise on Windows security settings
 
 ___
 
@@ -168,12 +168,12 @@ The last module focuses on manipulation and lies that are being told online and 
 
 The module contains the following files.
 
-+ M6_00_LessonPlan.pdf: Instructions on how to teach this module
-+ M6_01_LiesOnline.mp4: The recorded video lecture
-+ M6_01_ScamsConsAndSocialEngineeringN.pdf: The lecture slides including teaching notes
-+ M6_01_ScamsConsAndSocialEngineeringS.pdf: The lecture slides
-+ M6_HateOnlineStudentMaterial.pdf: The student version of this module's case study assignment
-+ M6_HateOnlineTeacherMaterial.pdf: The teacher's version of this module's case study assignment
++ [M6_00_LessonPlan.pdf](Module06_LiesOnline/M6_00_LessonPlan.pdf): Instructions on how to teach this module
++ [M6_01_LiesOnline.mp4](Module06_LiesOnline/M6_01_LiesOnline.mp4): The recorded video lecture
++ [M6_01_ScamsConsAndSocialEngineeringN.pdf](Module06_LiesOnline/M6_01_ScamsConsAndSocialEngineeringN.pdf): The lecture slides including teaching notes
++ [M6_01_ScamsConsAndSocialEngineeringS.pdf](Module06_LiesOnline/M6_01_ScamsConsAndSocialEngineeringS.pdf): The lecture slides
++ [M6_HateOnlineStudentMaterial.pdf](Module06_LiesOnline/M6_HateOnlineStudentMaterial.pdf): The student version of this module's case study assignment
++ [M6_HateOnlineTeacherMaterial.pdf](Module06_LiesOnline/M6_HateOnlineTeacherMaterial.pdf): The teacher's version of this module's case study assignment
 
 ___
 
