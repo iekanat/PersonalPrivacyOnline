@@ -78,13 +78,13 @@ The module contains the following files.
 + [M2_01_ProductIsYouN.pdf](Module02_ProductIsYou/M2_01_ProductIsYouN.pdf): The lecture slides, including teaching notes
 + [M2_01_ProductIsYouS.pdf](Module02_ProductIsYou/M2_01_ProductIsYouS.pdf): The lecture slides
 + [M2_02_LightBeam.mp4](Module02_ProductIsYou/M2_02_LightBeam.mp4): Recorded instructions for an exercise on the LightBeam browser extension 
-+ [M2_02_Lightbeam.pdf](Module02_ProductIsYou/M2_02_Lightbeam.pdf): Written instructions for an exercise on the LightBeam browser extension 
++ [M2_02_Lightbeam.pdf](Module02_ProductIsYou/Tutorials/M2_02_Lightbeam.pdf): Written instructions for an exercise on the LightBeam browser extension 
 + [M2_03_CoverYourTracks.mp4](Module02_ProductIsYou/M2_03_CoverYourTracks.mp4): Recorded instructions for an exercise on testing what is collected about your browser by first-party trackers
-+ [M2_03_CoverYourTracks.pdf](Module02_ProductIsYou/M2_03_CoverYourTracks.pdf): Written instructions for an exercise on testing what is collected about your browser by first-party trackers
++ [M2_03_CoverYourTracks.pdf](Module02_ProductIsYou/Tutorials/M2_03_CoverYourTracks.pdf): Written instructions for an exercise on testing what is collected about your browser by first-party trackers
 + [M2_04_GoogleAds.mp4](Module02_ProductIsYou/M2_04_GoogleAds.mp4): Recorded instructions for an exercise on checking Google Ad settings
-+ [M2_04_GoogleAds.pdf](Module02_ProductIsYou/M2_04_GoogleAds.pdf): Written instructions for an exercise on checking Google Ad settings
++ [M2_04_GoogleAds.pdf](Module02_ProductIsYou/Tutorials/M2_04_GoogleAds.pdf): Written instructions for an exercise on checking Google Ad settings
 + [M2_05_PrivacyAndSecurity.mp4](Module02_ProductIsYou/M2_05_PrivacyAndSecurity.mp4): Recorded instructions for an exercise on browser privacy settings
-+ [M2_05_PrivacyAndSecurity.pdf](Module02_ProductIsYou/M2_05_PrivacyAndSecurity.pdf): Written instructions for an exercise on browser privacy settings
++ [M2_05_PrivacyAndSecurity.pdf](Module02_ProductIsYou/Tutorials/M2_05_PrivacyAndSecurity.pdf): Written instructions for an exercise on browser privacy settings
 + [M2_ReadingList.pdf](Module02_ProductIsYou/M2_ReadingList.pdf): A list of suggested readings for the teacher and students
 
 ___
@@ -121,11 +121,11 @@ The module contains the following files.
 + [M4_01_LeavingTracesN.pdf](Module04_ThreatModelsInModernWorld/M4_01_LeavingTracesN.pdf): The lecture slides including teaching notes
 + [M4_01_LeavingTracesS.pdf](Module04_ThreatModelsInModernWorld/M4_01_LeavingTracesS.pdf): The lecture slides
 + [M4_02_VPN.mp4](Module04_ThreatModelsInModernWorld/M4_02_VPN.mp4): Recorded lesson and instructions for an exercise on VPNs
-+ [M4_02_VPN.pdf](Module04_ThreatModelsInModernWorld/M4_02_VPN.pdf): Written instructions for an exercise on VPNs
++ [M4_02_VPN.pdf](Module04_ThreatModelsInModernWorld/Tutorials/M4_02_VPN.pdf): Written instructions for an exercise on VPNs
 + [M4_02_VPNN.pdf](Module04_ThreatModelsInModernWorld/M4_02_VPNN.pdf): Slides with teaching notes for the lesson and instructions for an exercise on VPNs
 + [M4_02_VPNS.pdf](Module04_ThreatModelsInModernWorld/M4_02_VPNS.pdf): Slides for the lesson and instructions for an exercise on VPNs
 + [M4_03_DNSCrypt.mp4](Module04_ThreatModelsInModernWorld/M4_03_DNSCrypt.mp4): Recorded lesson and instructions for an exercise on securing Domain Name Systems
-+ [M4_03_DNSCrypt.pdf](Module04_ThreatModelsInModernWorld/M4_03_DNSCrypt.pdf): Written instructions for an exercise on securing Domain Name Systems
++ [M4_03_DNSCrypt.pdf](Module04_ThreatModelsInModernWorld/Tutorials/M4_03_DNSCrypt.pdf): Written instructions for an exercise on securing Domain Name Systems
 + [M4_03_DNSCryptN.pdf](Module04_ThreatModelsInModernWorld/M4_03_DNSCryptN.pdf): Slides with teaching notes for the lesson and instructions for Securing Domain Name Systems
 + [M4_03_DNSCryptS.pdf](Module04_ThreatModelsInModernWorld/M4_03_DNSCryptS.pdf): Slides for the lesson and instructions for Securing Domain Name Systems
 
@@ -145,15 +145,15 @@ The module contains the following files.
 + [M5_01_CommonThreatsN.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_01_CommonThreatsN.pdf): The lecture slides including teaching notes
 + [M5_01_CommonThreatsS.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_01_CommonThreatsS.pdf): The lecture slides
 + [M5_02_PasswordManagers.mp4](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_02_PasswordManagers.mp4): Recorded lesson and instructions for an exercise on Password Managers
-+ [M5_02_PasswordManager.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_02_PasswordManager.pdf): Written instructions for an exercise on Password Managers
++ [M5_02_PasswordManager.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/Tutorials/M5_02_PasswordManager.pdf): Written instructions for an exercise on Password Managers
 + [M5_02_PasswordManagersN.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_02_PasswordManagersN.pdf): Slides with teaching notes for the lesson and instructions for an exercise on Password Managers
 + [M5_02_PasswordManagersS.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_02_PasswordManagersS.pdf): Slides for the lesson and instructions for an exercise on Password Managers
 + [M5_03_MultifactorAuthentication.mp4](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_03_MultifactorAuthentication.mp4): Recorded lesson and instructions for an exercise on Multifactor Authentication
 + [M5_03_MultifactorAuthenticationN.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_03_MultifactorAuthenticationN.pdf): Slides with teaching notes for the lesson and instructions for an exercise on Multifactor authentication
 + [M5_03_MultifactorAuthenticationS.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_03_MultifactorAuthenticationS.pdf): Slides for the lesson and instructions for an exercise on Multifactor authentication
-+ [M5_03_MultiFactorAuthenticators.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_03_MultiFactorAuthenticators.pdf): Written instructions for an exercise on Multifactor authentication
++ [M5_03_MultiFactorAuthenticators.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/Tutorials/M5_03_MultiFactorAuthenticators.pdf): Written instructions for an exercise on Multifactor authentication
 + [M5_04_WindowsSecuritySettings.mp4](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_04_WindowsSecuritySettings.mp4): Recorded lesson and instructions for an exercise on Windows security settings
-+ [M5_04_WindowsSecuritySettings.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_04_WindowsSecuritySettings.pdf): Written instructions for an exercise on Windows security settings
++ [M5_04_WindowsSecuritySettings.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/Tutorials/M5_04_WindowsSecuritySettings.pdf): Written instructions for an exercise on Windows security settings
 + [M5_04_WindowsSecuritySettingsN.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_04_WindowsSecuritySettingsN.pdf): Slides with teaching notes for the lesson and instructions for an exercise on Windows security settings
 + [M5_04_WindowsSecuritySettingsS.pdf](Module05_ThreatsAndSolutionsForTheAverageCitizen/M5_04_WindowsSecuritySettingsS.pdf): Slides for the lesson and instructions for an exercise on Windows security settings
 
