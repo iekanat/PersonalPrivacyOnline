@@ -20,21 +20,21 @@ This course contains six modules, as listed below, and each module will integrat
 
 * [Module 01. Cyberbullying: Bullying, Stalking and Doxing](Module01_BullyingStalkingDoxing)
 
-* Module 02. Corporate Tracking: Product is You 
+* [Module 02. Corporate Tracking: Product is You](Module02_ProductIsYou)
 
-* Module 03. Case For Privacy: A real-life example of why privacy matters 
+* [Module 03. Case For Privacy: A real-life example of why privacy matters](Module03_CaseForPrivacy)
 
-* Module 04. Leaving Traces Online: Securing Yourself in the Modern World
+* [Module 04. Leaving Traces Online: Securing Yourself in the Modern World](Module04_ThreatModelsInModernWorld)
 
-* Module 05. Common Threats and Solutions: For the Average Citizen  
+* [Module 05. Common Threats and Solutions: For the Average Citizen](Module05_ThreatsAndSolutionsForTheAverageCitizen)
 
-* Module 06. Lies Online: Scams, Cons, Propaganda and Social Engineering 
+* [Module 06. Lies Online: Scams, Cons, Propaganda and Social Engineering](Module06_LiesOnline)
 
 
 
 Each module contains more or less the following standard structure.
 
-* Lesson plan (e.g. M1_00_LessonPlan.pdf)
+* Lesson plan (e.g. [M1_00_LessonPlan.pdf](Module01_BullyingStalkingDoxing/M1_00_LessonPlan.pdf) )
 * A pre-recorded video lecture (e.g. M1_01_TrollAttack.mp4)
 * Slides for students (e.g. M1_01_TrollAttackS.pdf)
 * Slides for teachers with notes (M1_01_TrollAttackN.pdf)
