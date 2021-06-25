@@ -1,6 +1,6 @@
 ---
 title: "Hate Online"
-subtitle: "Student Version"
+subtitle: "Teacher Version"
 author: "Sippo Rossi and Irfan Kanat"
 date: "25/04/2021"
 output: pdf_document
