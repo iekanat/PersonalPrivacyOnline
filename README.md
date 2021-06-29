@@ -48,7 +48,7 @@ The following are the list of individual modules with overview and table of cont
 
 ## MODULE 1 - Cyberbullying
 
-#### Summary
+### Summary
 
 This module focuses on individuals tracking other individuals online. This module is meant to teach the audience about the importance of caution in social media, as well as to consider the ethics, and to realize the potential damage caused by cyberbullying, especially in cases where thousands of people attack one individual. Most importantly, the case also gives an overview of good cybersecurity practices as well as information about different aspects of online privacy.
 
@@ -67,7 +67,7 @@ ___
 
 ## MODULE 2 - Corporate Tracking
 
-## Summary
+### Summary
 
 This module looks into corporate tracking online and gives the students tools and suggestions on how to monitor what is being tracked and how to adjust settings to reduce the tracking of their online behaviour. 
 
@@ -134,7 +134,7 @@ ___
 
 ## MODULE 5 - Threats and solutions
 
-## Summary
+### Summary
 
 This module focuses on common threats an average citizen faces online daily and a few ways of improving personal security.
 
@@ -177,6 +177,8 @@ The module contains the following files.
 
 ___
 
-
+<div style="page-break-after: always; visibility: hidden"> 
 \vfill
+</div>
+
 ![CC4](CC4.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
